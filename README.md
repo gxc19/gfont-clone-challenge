@@ -1,9 +1,17 @@
-This project is a bug fixing/feature addition challenge for Code Nation students.
+For this project, I worked with Jenny and Matt. Our task was to fork a version of Google Fonts which had the basic template, in which we had to add onto.
 
-## Click on the issues tab at the top of this repo to see current issues
 
-Students will need to fork this repo and clone it to their machine.
+The features we had to implent were the following:
 
-Starting state:
+- Add more font styles
+- Add a navigation bar which will only display the font names which have been entered
+- Add a apply to all button
+- Add a CSS information popup box when the user clicks in the plus button
 
-![Starting State](/gfont-start.png)
+
+
+
+
+
+
+
